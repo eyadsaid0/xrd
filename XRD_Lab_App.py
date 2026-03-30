@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """
 🔬 X-Ray Diffraction (XRD) Virtual Lab
-A professional interactive simulation of a real university XRD experiment
 Built with Streamlit + Plotly for authentic lab experience
 """
 
@@ -255,7 +254,6 @@ def main():
     st.markdown("""
     <div class="lab-header">
         <h1>🔬 X-Ray Diffraction Virtual Lab</h1>
-        <p>Professional Interactive Simulation of a Real University XRD Experiment</p>
     </div>
     """, unsafe_allow_html=True)
 
